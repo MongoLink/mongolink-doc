@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Mongolink - Documentation
+pages:
+- [index.md, Home]
+- [configuration.md, Configuration]
